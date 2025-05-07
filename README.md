@@ -11,21 +11,20 @@ I'm a Platform and Automation Engineer with over 15 years of experience in IT in
 
 🖥️ PowerShell
 
-🔧 What I'm Working On
-Building infrastructure as code pipelines for enterprise-scale Azure environments
+## What I'm Working On
+- Building infrastructure as code pipelines for enterprise-scale Azure environments
 
-Automating cloud provisioning and governance
+- Automating cloud provisioning and governance
 
-Exploring Azure DevOps CI/CD strategies
+- Exploring Azure DevOps CI/CD strategies
 
-🌱 Currently Learning
+## Currently Learning
 🟨 JavaScript
-
 ⚛️ React
 
 📐 Enhancing frontend skills to bridge DevOps and app development
 
-🤝 Let's Connect
+## Let's Connect
 💼 LinkedIn: jameswhiteit
 
 📫 Open to collaboration, mentoring, or just a good tech conversation!
