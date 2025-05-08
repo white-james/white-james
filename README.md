@@ -25,7 +25,7 @@ I'm a Platform and Automation Engineer with over 15 years of experience in IT in
 📐 Enhancing frontend skills to bridge DevOps and app development
 
 ## Let's Connect
-💼 LinkedIn: jameswhiteit
+💼 [LinkedIn:](https://www.linkedin.com/in/jameswhiteit/)
 
 📫 Open to collaboration, mentoring, or just a good tech conversation!
 
